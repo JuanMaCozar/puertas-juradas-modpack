@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/alexsmobs-common.toml"
+hash = "ebe1fe8a1930ae4c1be8534894aeb897c678aa1d365fadcc5371a8c2355eb649"
+
+[[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "97b9b2314b196f3bf665622d7f28c506594038ac0b3944d3f96441eeadf46089"
+
+[[files]]
+file = "config/healthindicatortxf.json5"
+hash = "899cb4ea7ce76e6c95f081187ecf29be83ba6810635424bfb4bff993705e901b"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "40b0615068e004e9806ee189b4a0c016d1513feb982bdbfa13a50b68ea1beae1"
+
+[[files]]
+file = "config/terralith.json"
+hash = "2657d69d505a41dcfd90a6ab1f739bd9c9b29480ae60e8a1a3cbbba870a00be9"
+
+[[files]]
 file = "mods/alexs-mobs(1.21.1).pw.toml"
 hash = "fb53bc6c0d543cd7e88a5faba1e3235dca6c556e0cf8c1a534bbdec581c3c2f8"
 metafile = true
@@ -332,4 +352,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d0b2b8a1a874ec1b9f33709a77ec677393d2af87ba75c5ef32622aa042ac4c1d"
+hash = "26fc22d9d63d0325ca2eda9b5aa823067379a42bd751a01550deadbd5664d1fa"
