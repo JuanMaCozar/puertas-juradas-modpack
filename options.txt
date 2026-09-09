@@ -1,2 +1,3 @@
 fullscreen:true
 lang:es_es
+narrator:0

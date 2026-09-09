@@ -329,3 +329,7 @@ metafile = true
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "485906ff55a5d6ad06070abb80663d6adadc3e4b32f8b52240d8596e7aaef9fa"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "d0b2b8a1a874ec1b9f33709a77ec677393d2af87ba75c5ef32622aa042ac4c1d"
