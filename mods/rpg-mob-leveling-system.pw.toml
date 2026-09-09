@@ -1,0 +1,13 @@
+name = "RPG Mob Leveling System"
+filename = "rpgmoblevelingsystem-neoforge-1.21.1-2.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4eSfhd3M/versions/Jotlloxu/rpgmoblevelingsystem-neoforge-1.21.1-2.0.7.jar"
+hash-format = "sha512"
+hash = "60ec2ac82dd02c0ebdcd49dd2175f3531db3e755729cd75d88059d6208feac06301804a7ce4131ac4da5deec4a6a02760c572f6edee769bd87165013b12e1b95"
+
+[update]
+[update.modrinth]
+mod-id = "4eSfhd3M"
+version = "Jotlloxu"
