@@ -1,0 +1,13 @@
+name = "DeathCompass"
+filename = "deathcompass-neoforge-1.21.1-1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9tBZta7o/versions/1yy8h1qh/deathcompass-neoforge-1.21.1-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "97c5317df304e7f91b481bc40d57173cfc1c3cb3e513f4d4e94061ff203e603218d8ad9fa531b516a9766a651bc02b5c382be40edec753327e12a1e2ac7256cf"
+
+[update]
+[update.modrinth]
+mod-id = "9tBZta7o"
+version = "1yy8h1qh"

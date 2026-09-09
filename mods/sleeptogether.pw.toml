@@ -1,0 +1,13 @@
+name = "SleepTogether"
+filename = "sleeptogether-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0def56a9df22c9b71e0b2972e77c2b93eea0a23"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6276546
+project-id = 1215404
