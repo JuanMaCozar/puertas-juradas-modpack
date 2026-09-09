@@ -1,0 +1,13 @@
+name = "Health Indicator TXF"
+filename = "healthindicatortxf-1.21.1-1.3.12-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N56hoqkq/versions/xGqsX1go/healthindicatortxf-1.21.1-1.3.12-neoforge.jar"
+hash-format = "sha512"
+hash = "34ebae593564aaccaf874e8c0af15f527d49b33effb1067684fca604be4374fa1d73d40ccd4b1c1dd289fd2863780ca9b5a77008ebc76d02f33838061458fdcb"
+
+[update]
+[update.modrinth]
+mod-id = "N56hoqkq"
+version = "xGqsX1go"

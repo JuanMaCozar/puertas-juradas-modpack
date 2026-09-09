@@ -136,6 +136,11 @@ hash = "6b235aa1d0c43ab4fa7eacca3eb3c62530fa6ae1b44bc56aecc25c636a8ffc5b"
 metafile = true
 
 [[files]]
+file = "mods/health-indicator-txf.pw.toml"
+hash = "f3cdd15e2f374c0925d9da309e0e1c5f05fa7facdbbcccd72695300a202d3c5d"
+metafile = true
+
+[[files]]
 file = "mods/held-item-tooltips.pw.toml"
 hash = "d01e1e18bc56a20fd1b37a5716e3fa9cf78704176389865dcbac7c13d3b34770"
 metafile = true
